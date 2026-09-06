@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra Criolla",
+    "familia": "cuerda",
+    "origen": "España",
+    "descripcion": "Guitarra acústica de seis cuerdas de nailon, ideal para folclore y música clásica.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Charango",
+    "familia": "cuerda",
+    "origen": "Región Andina",
+    "descripcion": "Instrumento cordófono de diez cuerdas agrupadas en cinco órdenes dobles.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Flauta Dulce",
+    "familia": "viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de viento de madera con embocadura de bisel y ocho orificios.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Bomba Legüero",
+    "familia": "percusión",
+    "origen": "Argentina",
+    "descripcion": "Tambor membranófono tradicional construido en un tronco ahuecado y cuero de oveja.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Saxo Alto",
+    "familia": "viento",
+    "origen": "Bélgica",
+    "descripcion": "Instrumento de viento-metal inventado por Adolphe Sax, muy utilizado en jazz.",
+    "disponible": true
+  }
+]

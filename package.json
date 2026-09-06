@@ -1,1 +1,12 @@
-{"name": "tp-03-api-instrumentos", "version": "1.0.0", "type": "commonjs", "scripts": {"start": "node src/index.js", "check": "node --check src/index.js && node --check src/archivos.js"}, "dependencies": {"express": "^5.2.1"}}
+{
+  "name": "tp-03-api-instrumentos",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js && node --check src/archivos.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
