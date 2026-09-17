@@ -1,12 +1,14 @@
 {
   "name": "tp-03-api-instrumentos",
   "version": "1.0.0",
+  "description": "API REST HTTP con Express para la gestión temporal de un catálogo de instrumentos musicales",
+  "main": "src/index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node src/index.js",
     "check": "node --check src/index.js && node --check src/archivos.js"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^4.21.2"
   }
 }
